@@ -1,0 +1,17 @@
+# Ignore listed files and folders
+.vs/
+*.sln
+*.vcxproj*
+BubbleSo.36c5dbb9/
+x64/
+
+# Ignore other files if needed
+*.tmp
+*.log
+
+# Include only the specific files
+!main.cpp
+!bubbleSortPro.cpp
+!bubbleSortPro.hpp
+!maxFinder.cpp
+!maxFinder.hpp
